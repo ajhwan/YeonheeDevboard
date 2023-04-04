@@ -11,6 +11,8 @@
 |11|Piezo|소리|
 |A0|가변저항|아날로그 입력|
 
+![tinkercad](board.png)
+
 ## LED 검증
 · Basics -> Blink 예제
 
